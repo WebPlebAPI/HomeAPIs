@@ -1,0 +1,546 @@
+Try Public APIs for free
+The Public APIs repository is manually curated by community members like you and folks working at APILayer. It includes an extensive list of public APIs from many domains that you can use for your own products. Consider it a treasure trove of APIs well-managed by the community over the years.
+
+
+
+APILayer Logo
+APILayer is the fastest way to integrate APIs into any product. There are a lot of APIs available at APILayer Marketplace.
+
+
+APILayer APIs
+API	Description	Call this API
+IP Stack	Locate and Identify Website Visitors by IP Address	Run In Postman
+Marketstack	Free, easy-to-use REST API interface delivering worldwide stock market data in JSON format	Run In Postman
+Weatherstack	Retrieve instant, accurate weather information for any location in the world in lightweight JSON format	Run In Postman
+Numverify	Global Phone Number Validation & Lookup JSON API	Run In Postman
+Fixer	Fixer is a simple and lightweight API for current and historical foreign exchange (forex) rates.	Run In Postman
+
+Learn more about Public APIs
+Get Involved
+
+Contributing Guide
+API for this project
+Issues
+Pull Requests
+LICENSE
+
+Index
+Animals
+Anime
+Anti-Malware
+Art & Design
+Authentication & Authorization
+Blockchain
+Books
+Business
+Calendar
+Cloud Storage & File Sharing
+Continuous Integration
+Cryptocurrency
+Currency Exchange
+Data Validation
+Development
+Dictionaries
+Documents & Productivity
+Email
+Entertainment
+Environment
+Events
+Finance
+Food & Drink
+Games & Comics
+Geocoding
+Government
+Health
+Jobs
+Machine Learning
+Music
+News
+Open Data
+Open Source Projects
+Patent
+Personality
+Phone
+Photography
+Programming
+Science & Math
+Security
+Shopping
+Social
+Sports & Fitness
+Test Data
+Text Analysis
+Tracking
+Transportation
+URL Shorteners
+Vehicle
+Video
+Weather
+
+Animals
+API	Description	Auth	HTTPS	CORS
+AdoptAPet	Resource to help get pets adopted	apiKey	Yes	Yes
+Axolotl	Collection of axolotl pictures and facts	No	Yes	No
+Cat Facts	Daily cat facts	No	Yes	No
+Cataas	Cat as a service (cats pictures and gifs)	No	Yes	No
+Cats	Pictures of cats from Tumblr	apiKey	Yes	No
+Dog Facts	Random dog facts	No	Yes	Yes
+Dog Facts	Random facts of Dogs	No	Yes	Yes
+Dogs	Based on the Stanford Dogs Dataset	No	Yes	Yes
+eBird	Retrieve recent or notable birding observations within a region	apiKey	Yes	No
+FishWatch	Information and pictures about individual fish species	No	Yes	Yes
+HTTP Cat	Cat for every HTTP Status	No	Yes	Yes
+HTTP Dog	Dogs for every HTTP response status code	No	Yes	Yes
+IUCN	IUCN Red List of Threatened Species	apiKey	No	No
+MeowFacts	Get random cat facts	No	Yes	No
+Movebank	Movement and Migration data of animals	No	Yes	Yes
+Petfinder	Petfinder is dedicated to helping pets find homes, another resource to get pets adopted	apiKey	Yes	Yes
+PlaceBear	Placeholder bear pictures	No	Yes	Yes
+PlaceDog	Placeholder Dog pictures	No	Yes	Yes
+PlaceKitten	Placeholder Kitten pictures	No	Yes	Yes
+RandomDog	Random pictures of dogs	No	Yes	Yes
+RandomDuck	Random pictures of ducks	No	Yes	No
+RandomFox	Random pictures of foxes	No	Yes	No
+RescueGroups	Adoption	No	Yes	Unknown
+Shibe.Online	Random pictures of Shiba Inu, cats or birds	No	Yes	Yes
+The Dog	A public service all about Dogs, free to use when making your fancy new App, Website or Service	apiKey	Yes	No
+xeno-canto	Bird recordings	No	Yes	Unknown
+Zoo Animals	Facts and pictures of zoo animals	No	Yes	Yes
+⬆ Back to Index
+
+
+Anime
+API	Description	Auth	HTTPS	CORS
+AniAPI	Anime discovery, streaming & syncing with trackers	OAuth	Yes	Yes
+AniDB	Anime Database	apiKey	No	Unknown
+AniList	Anime discovery & tracking	OAuth	Yes	Unknown
+AnimeChan	Anime quotes (over 10k+)	No	Yes	No
+AnimeFacts	Anime Facts (over 100+)	No	Yes	Yes
+AnimeNewsNetwork	Anime industry news	No	Yes	Yes
+Catboy	Neko images, funny GIFs & more	No	Yes	Yes
+Danbooru Anime	Thousands of anime artist database to find good anime art	apiKey	Yes	Yes
+Jikan	Unofficial MyAnimeList API	No	Yes	Yes
+Kitsu	Anime discovery platform	OAuth	Yes	Yes
+MangaDex	Manga Database and Community	apiKey	Yes	Unknown
+Mangapi	Translate manga pages from one language to another	apiKey	Yes	Unknown
+MyAnimeList	Anime and Manga Database and Community	OAuth	Yes	Unknown
+NekosBest	Neko Images & Anime roleplaying GIFs	No	Yes	Yes
+Shikimori	Anime discovery, tracking, forum, rates	OAuth	Yes	Unknown
+Studio Ghibli	Resources from Studio Ghibli films	No	Yes	Yes
+Trace Moe	A useful tool to get the exact scene of an anime from a screenshot	No	Yes	No
+Waifu.im	Get waifu pictures from an archive of over 4000 images and multiple tags	No	Yes	Yes
+Waifu.pics	Image sharing platform for anime images	No	Yes	No
+⬆ Back to Index
+
+
+Anti-Malware
+API	Description	Auth	HTTPS	CORS
+AbuseIPDB	IP/domain/URL reputation	apiKey	Yes	Unknown
+AlienVault Open Threat Exchange (OTX)	IP/domain/URL reputation	apiKey	Yes	Unknown
+CAPEsandbox	Malware execution and analysis	apiKey	Yes	Unknown
+Google Safe Browsing	Google Link/Domain Flagging	apiKey	Yes	Unknown
+MalDatabase	Provide malware datasets and threat intelligence feeds	apiKey	Yes	Unknown
+MalShare	Malware Archive / file sourcing	apiKey	Yes	No
+MalwareBazaar	Collect and share malware samples	apiKey	Yes	Unknown
+Metacert	Metacert Link Flagging	apiKey	Yes	Unknown
+NoPhishy	Check links to see if they're known phishing attempts	apiKey	Yes	Yes
+Phisherman	IP/domain/URL reputation	apiKey	Yes	Unknown
+Scanii	Simple REST API that can scan submitted documents/files for the presence of threats	apiKey	Yes	Yes
+URLhaus	Bulk queries and Download Malware Samples	No	Yes	Yes
+URLScan.io	Scan and Analyse URLs	apiKey	Yes	Unknown
+VirusTotal	VirusTotal File/URL Analysis	apiKey	Yes	Unknown
+Web of Trust	IP/domain/URL reputation	apiKey	Yes	Unknown
+⬆ Back to Index
+
+
+Art & Design
+API	Description	Auth	HTTPS	CORS
+Améthyste	Generate images for Discord users	apiKey	Yes	Unknown
+Art Institute of Chicago	Art	No	Yes	Yes
+Colormind	Color scheme generator	No	No	Unknown
+ColourLovers	Get various patterns, palettes and images	No	No	Unknown
+Cooper Hewitt	Smithsonian Design Museum	apiKey	Yes	Unknown
+Dribbble	Discover the world’s top designers & creatives	OAuth	Yes	Unknown
+EmojiHub	Get emojis by categories and groups	No	Yes	Yes
+Europeana	European Museum and Galleries content	apiKey	Yes	Unknown
+Harvard Art Museums	Art	apiKey	No	Unknown
+Icon Horse	Favicons for any website, with fallbacks	No	Yes	Yes
+Iconfinder	Icons	apiKey	Yes	Unknown
+Icons8	Icons (find "search icon" hyperlink in page)	No	Yes	Unknown
+Lordicon	Icons with predone Animations	No	Yes	Yes
+Metropolitan Museum of Art	Met Museum of Art	No	Yes	No
+Noun Project	Icons	OAuth	No	Unknown
+PHP-Noise	Noise Background Image Generator	No	Yes	Yes
+Pixel Encounter	SVG Icon Generator	No	Yes	No
+Rijksmuseum	RijksMuseum Data	apiKey	Yes	Unknown
+Word Cloud	Easily create word clouds	apiKey	Yes	Unknown
+xColors	Generate & convert colors	No	Yes	Yes
+⬆ Back to Index
+
+
+Authentication & Authorization
+API	Description	Auth	HTTPS	CORS
+Auth0	Easy to implement, adaptable authentication and authorization platform	apiKey	Yes	Yes
+GetOTP	Implement OTP flow quickly	apiKey	Yes	No
+Micro User Service	User management and authentication	apiKey	Yes	No
+MojoAuth	Secure and modern passwordless authentication platform	apiKey	Yes	Yes
+SAWO Labs	Simplify login and improve user experience by integrating passwordless authentication in your app	apiKey	Yes	Yes
+Stytch	User infrastructure for modern applications	apiKey	Yes	No
+Warrant	APIs for authorization and access control	apiKey	Yes	Yes
+⬆ Back to Index
+
+
+Blockchain
+API	Description	Auth	HTTPS	CORS
+Bitquery	Onchain GraphQL APIs & DEX APIs	apiKey	Yes	Yes
+Chainlink	Build hybrid smart contracts with Chainlink	No	Yes	Unknown
+Chainpoint	Chainpoint is a global network for anchoring data to the Bitcoin blockchain	No	Yes	Unknown
+Covalent	Multi-blockchain data aggregator platform	apiKey	Yes	Unknown
+Etherscan	Ethereum explorer API	apiKey	Yes	Yes
+Helium	Helium is a global, distributed network of Hotspots that create public, long-range wireless coverage	No	Yes	Unknown
+Nownodes	Blockchain-as-a-service solution that provides high-quality connection via API	apiKey	Yes	Unknown
+Steem	Blockchain-based blogging and social media website	No	No	No
+The Graph	Indexing protocol for querying networks like Ethereum with GraphQL	apiKey	Yes	Unknown
+Walltime	To retrieve Walltime's market info	No	Yes	Unknown
+Watchdata	Provide simple and reliable API access to Ethereum blockchain	apiKey	Yes	Unknown
+⬆ Back to Index
+
+
+Books
+API	Description	Auth	HTTPS	CORS
+A Bíblia Digital	Do not worry about managing the multiple versions of the Bible	apiKey	Yes	No
+Bhagavad Gita	Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi	apiKey	Yes	Yes
+Bhagavad Gita	Bhagavad Gita text	OAuth	Yes	Yes
+Bhagavad Gita telugu	Bhagavad Gita API in telugu and odia languages	No	Yes	Yes
+Bible-api	Free Bible API with multiple languages	No	Yes	Yes
+British National Bibliography	Books	No	No	Unknown
+Crossref Metadata Search	Books & Articles Metadata	No	Yes	Unknown
+Ganjoor	Classic Persian poetry works including access to related manuscripts, recitations and music tracks	OAuth	Yes	Yes
+Google Books	Books	OAuth	Yes	Unknown
+GurbaniNow	Fast and Accurate Gurbani RESTful API	No	Yes	Unknown
+Gutendex	Web-API for fetching data from Project Gutenberg Books Library	No	Yes	Unknown
+Open Library	Books, book covers and related data	No	Yes	No
+Penguin Publishing	Books, book covers and related data	No	Yes	Yes
+PoetryDB	Enables you to get instant data from our vast poetry collection	No	Yes	Yes
+Quran	RESTful Quran API with multiple languages	No	Yes	Yes
+Quran Cloud	A RESTful Quran API to retrieve an Ayah, Surah, Juz or the entire Holy Quran	No	Yes	Yes
+Quran-api	Free Quran API Service with 90+ different languages and 400+ translations	No	Yes	Yes
+Rig Veda	Gods and poets, their categories, and the verse meters, with the mandal and sukta number	No	Yes	Unknown
+The Bible	Everything you need from the Bible in one discoverable place	apiKey	Yes	Unknown
+Thirukkural	1330 Thirukkural poems and explanation in Tamil and English	No	Yes	Yes
+Vedic Society	Descriptions of all nouns (names, places, animals, things) from vedic literature	No	Yes	Unknown
+Wizard World	Get information from the Harry Potter universe	No	Yes	Yes
+Wolne Lektury	API for obtaining information about e-books available on the WolneLektury.pl website	No	Yes	Unknown
+⬆ Back to Index
+
+
+Business
+API	Description	Auth	HTTPS	CORS
+Apache Superset	API to manage your BI dashboards and data sources on Superset	apiKey	Yes	Yes
+Charity Search	Non-profit charity data	apiKey	No	Unknown
+Clearbit Logo	Search for company logos and embed them in your projects	apiKey	Yes	Unknown
+Domainsdb.info	Registered Domain Names Search	No	Yes	No
+Freelancer	Hire freelancers to get work done	OAuth	Yes	Unknown
+Gmail	Flexible, RESTful access to the user's inbox	OAuth	Yes	Unknown
+Google Analytics	Collect, configure and analyze your data to reach the right audience	OAuth	Yes	Unknown
+Instatus	Post to and update maintenance and incidents on your status page through an HTTP REST API	apiKey	Yes	Unknown
+Mailchimp	Send marketing campaigns and transactional mails	apiKey	Yes	Unknown
+mailjet	Marketing email can be sent and mail templates made in MJML or HTML can be sent using API	apiKey	Yes	Unknown
+markerapi	Trademark Search	No	No	Unknown
+ORB Intelligence	Company lookup	apiKey	Yes	Unknown
+Redash	Access your queries and dashboards on Redash	apiKey	Yes	Yes
+Smartsheet	Allows you to programmatically access and Smartsheet data and account information	OAuth	Yes	No
+Square	Easy way to take payments, manage refunds, and help customers checkout online	OAuth	Yes	Unknown
+SwiftKanban	Kanban software, Visualize Work, Increase Organizations Lead Time, Throughput & Productivity	apiKey	Yes	Unknown
+Tenders in Hungary	Get data for procurements in Hungary in JSON format	No	Yes	Unknown
+Tenders in Poland	Get data for procurements in Poland in JSON format	No	Yes	Unknown
+Tenders in Romania	Get data for procurements in Romania in JSON format	No	Yes	Unknown
+Tenders in Spain	Get data for procurements in Spain in JSON format	No	Yes	Unknown
+Tenders in Ukraine	Get data for procurements in Ukraine in JSON format	No	Yes	Unknown
+Tomba email finder	Email Finder for B2B sales and email marketing and email verifier	apiKey	Yes	Yes
+Trello	Boards, lists and cards to help you organize and prioritize your projects	OAuth	Yes	Unknown
+⬆ Back to Index
+
+
+Calendar
+API	Description	Auth	HTTPS	CORS
+Abstract Public Holidays	Data on national, regional, and religious holidays via API	apiKey	Yes	Yes
+Calendarific	Worldwide Holidays	apiKey	Yes	Unknown
+Checkiday - National Holiday API	Industry-leading Holiday API. Over 5,000 holidays and thousands of descriptions. Trusted by the World’s leading companies	apiKey	Yes	Unknown
+Church Calendar	Catholic liturgical calendar	No	No	Unknown
+Czech Namedays Calendar	Lookup for a name and returns nameday date	No	No	Unknown
+Festivo Public Holidays	Fastest and most advanced public holiday and observance service on the market	apiKey	Yes	Yes
+Google Calendar	Display, create and modify Google calendar events	OAuth	Yes	Unknown
+Hebrew Calendar	Convert between Gregorian and Hebrew, fetch Shabbat and Holiday times, etc	No	No	Unknown
+Holidays	Historical data regarding holidays	apiKey	Yes	Unknown
+LectServe	Protestant liturgical calendar	No	No	Unknown
+Nager.Date	Public holidays for more than 90 countries	No	Yes	No
+Namedays Calendar	Provides namedays for multiple countries	No	Yes	Yes
+Non-Working Days	Database of ICS files for non working days	No	Yes	Unknown
+Non-Working Days	Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other	No	Yes	Yes
+Russian Calendar	Check if a date is a Russian holiday or not	No	Yes	No
+UK Bank Holidays	Bank holidays in England and Wales, Scotland and Northern Ireland	No	Yes	Unknown
+⬆ Back to Index
+
+
+Cloud Storage & File Sharing
+API	Description	Auth	HTTPS	CORS
+AnonFiles	Upload and share your files anonymously	No	Yes	Unknown
+BayFiles	Upload and share your files	No	Yes	Unknown
+Box	File Sharing and Storage	OAuth	Yes	Unknown
+ddownload	File Sharing and Storage	apiKey	Yes	Unknown
+Dropbox	File Sharing and Storage	OAuth	Yes	Unknown
+File.io	Super simple file sharing, convenient, anonymous and secure	No	Yes	Unknown
+Filestack	Filestack File Uploader & File Upload API	apiKey	Yes	Unknown
+GoFile	Unlimited size file uploads for free	apiKey	Yes	Unknown
+Google Drive	File Sharing and Storage	OAuth	Yes	Unknown
+Gyazo	Save & Share screen captures instantly	apiKey	Yes	Unknown
+Imgbb	Simple and quick private image sharing	apiKey	Yes	Unknown
+OneDrive	File Sharing and Storage	OAuth	Yes	Unknown
+Pantry	Free JSON storage for small projects	No	Yes	Yes
+Pastebin	Plain Text Storage	apiKey	Yes	Unknown
+Pinata	IPFS Pinning Services API	apiKey	Yes	Unknown
+Quip	File Sharing and Storage for groups	apiKey	Yes	Yes
+Storj	Decentralized Open-Source Cloud Storage	apiKey	Yes	Unknown
+The Null Pointer	No-bullshit file hosting and URL shortening service	No	Yes	Unknown
+Web3 Storage	File Sharing and Storage for Free with 1TB Space	apiKey	Yes	Yes
+⬆ Back to Index
+
+
+Continuous Integration
+API	Description	Auth	HTTPS	CORS
+Azure DevOps Health	Resource health helps you diagnose and get support when an Azure issue impacts your resources	apiKey	No	No
+Bitrise	Build tool and processes integrations to create efficient development pipelines	apiKey	Yes	Unknown
+Buddy	The fastest continuous integration and continuous delivery platform	OAuth	Yes	Unknown
+CircleCI	Automate the software development process using continuous integration and continuous delivery	apiKey	Yes	Unknown
+Codeship	Codeship is a Continuous Integration Platform in the cloud	apiKey	Yes	Unknown
+Travis CI	Sync your GitHub projects with Travis CI to test your code in minutes	apiKey	Yes	Unknown
+⬆ Back to Index
+
+
+Cryptocurrency
+API	Description	Auth	HTTPS	CORS
+0x	API for querying token and pool stats across various liquidity pools	No	Yes	Yes
+1inch	API for querying decentralize exchange	No	Yes	Unknown
+Alchemy Ethereum	Ethereum Node-as-a-Service Provider	apiKey	Yes	Yes
+apilayer coinlayer	Real-time Crypto Currency Exchange Rates	apiKey	Yes	Unknown
+Binance	Exchange for Trading Cryptocurrencies based in China	apiKey	Yes	Unknown
+Bitcambio	Get the list of all traded assets in the exchange	No	Yes	Unknown
+BitcoinAverage	Digital Asset Price Data for the blockchain industry	apiKey	Yes	Unknown
+BitcoinCharts	Financial and Technical Data related to the Bitcoin Network	No	Yes	Unknown
+Bitfinex	Cryptocurrency Trading Platform	apiKey	Yes	Unknown
+Bitmex	Real-Time Cryptocurrency derivatives trading platform based in Hong Kong	apiKey	Yes	Unknown
+Bittrex	Next Generation Crypto Trading Platform	apiKey	Yes	Unknown
+Block	Bitcoin Payment, Wallet & Transaction Data	apiKey	Yes	Unknown
+Blockchain	Bitcoin Payment, Wallet & Transaction Data	apiKey	Yes	Unknown
+blockfrost Cardano	Interaction with the Cardano mainnet and several testnets	apiKey	Yes	Unknown
+Brave NewCoin	Real-time and historic crypto data from more than 200+ exchanges	apiKey	Yes	Unknown
+BtcTurk	Real-time cryptocurrency data, graphs and API that allows buy&sell	apiKey	Yes	Yes
+Bybit	Cryptocurrency data feed and algorithmic trading	apiKey	Yes	Unknown
+CoinAPI	All Currency Exchanges integrate under a single api	apiKey	Yes	No
+Coinbase	Bitcoin, Bitcoin Cash, Litecoin and Ethereum Prices	apiKey	Yes	Unknown
+Coinbase Pro	Cryptocurrency Trading Platform	apiKey	Yes	Unknown
+CoinCap	Real time Cryptocurrency prices through a RESTful API	No	Yes	Unknown
+CoinDCX	Cryptocurrency Trading Platform	apiKey	Yes	Unknown
+CoinDesk	CoinDesk's Bitcoin Price Index (BPI) in multiple currencies	No	Yes	Unknown
+CoinGecko	Cryptocurrency Price, Market, and Developer/Social Data	No	Yes	Yes
+Coinigy	Interacting with Coinigy Accounts and Exchange Directly	apiKey	Yes	Unknown
+Coinlib	Crypto Currency Prices	apiKey	Yes	Unknown
+Coinlore	Cryptocurrencies prices, volume and more	No	Yes	Unknown
+CoinMarketCap	Cryptocurrencies Prices	apiKey	Yes	Unknown
+Coinpaprika	Cryptocurrencies prices, volume and more	No	Yes	Yes
+CoinRanking	Live Cryptocurrency data	apiKey	Yes	Unknown
+Coinremitter	Cryptocurrencies Payment & Prices	apiKey	Yes	Unknown
+CoinStats	Crypto Tracker	No	Yes	Unknown
+CryptAPI	Cryptocurrency Payment Processor	No	Yes	Unknown
+CryptingUp	Cryptocurrency data	No	Yes	Unknown
+CryptoCompare	Cryptocurrencies Comparison	No	Yes	Unknown
+CryptoMarket	Cryptocurrencies Trading platform	apiKey	Yes	Yes
+Cryptonator	Cryptocurrencies Exchange Rates	No	Yes	Unknown
+dYdX	Decentralized cryptocurrency exchange	apiKey	Yes	Unknown
+Ethplorer	Ethereum tokens, balances, addresses, history of transactions, contracts, and custom structures	apiKey	Yes	Unknown
+EXMO	Cryptocurrencies exchange based in UK	apiKey	Yes	Unknown
+FTX	Complete REST, websocket, and FTX APIs to suit your algorithmic trading needs	apiKey	Yes	Yes
+Gateio	API provides spot, margin and futures trading operations	apiKey	Yes	Unknown
+Gemini	Cryptocurrencies Exchange	No	Yes	Unknown
+Hirak Exchange Rates	Exchange rates between 162 currency & 300 crypto currency update each 5 min, accurate, no limits	apiKey	Yes	Unknown
+Huobi	Seychelles based cryptocurrency exchange	apiKey	Yes	Unknown
+icy.tools	GraphQL based NFT API	apiKey	Yes	Unknown
+Indodax	Trade your Bitcoin and other assets with rupiah	apiKey	Yes	Unknown
+INFURA Ethereum	Interaction with the Ethereum mainnet and several testnets	apiKey	Yes	Yes
+Kraken	Cryptocurrencies Exchange	apiKey	Yes	Unknown
+KuCoin	Cryptocurrency Trading Platform	apiKey	Yes	Unknown
+Localbitcoins	P2P platform to buy and sell Bitcoins	No	Yes	Unknown
+Mempool	Bitcoin API Service focusing on the transaction fee	No	Yes	No
+MercadoBitcoin	Brazilian Cryptocurrency Information	No	Yes	Unknown
+Messari	Provides API endpoints for thousands of crypto assets	No	Yes	Unknown
+Nexchange	Automated cryptocurrency exchange service	No	No	Yes
+Nomics	Historical and realtime cryptocurrency prices and market data	apiKey	Yes	Yes
+NovaDax	NovaDAX API to access all market data, trading management endpoints	apiKey	Yes	Unknown
+OKEx	Cryptocurrency exchange based in Seychelles	apiKey	Yes	Unknown
+Poloniex	US based digital asset exchange	apiKey	Yes	Unknown
+Solana JSON RPC	Provides various endpoints to interact with the Solana Blockchain	No	Yes	Unknown
+Technical Analysis	Cryptocurrency prices and technical analysis	apiKey	Yes	No
+VALR	Cryptocurrency Exchange based in South Africa	apiKey	Yes	Unknown
+WorldCoinIndex	Cryptocurrencies Prices	apiKey	Yes	Unknown
+ZMOK	Ethereum JSON RPC API and Web3 provider	No	Yes	Unknown
+⬆ Back to Index
+
+
+Currency Exchange
+API	Description	Auth	HTTPS	CORS
+1Forge	Forex currency market data	apiKey	Yes	Unknown
+Amdoren	Free currency API with over 150 currencies	apiKey	Yes	Unknown
+apilayer fixer.io	Exchange rates and currency conversion	apiKey	No	Unknown
+Bank of Russia	Exchange rates and currency conversion	No	Yes	Unknown
+Currency-api	Free Currency Exchange Rates API with 150+ Currencies & No Rate Limits	No	Yes	Yes
+CurrencyFreaks	Provides current and historical currency exchange rates with free plan 1K requests/month	apiKey	Yes	Yes
+Currencylayer	Exchange rates and currency conversion	apiKey	Yes	Unknown
+CurrencyScoop	Real-time and historical currency rates JSON API	apiKey	Yes	Yes
+Czech National Bank	A collection of exchange rates	No	Yes	Unknown
+Economia.Awesome	Portuguese free currency prices and conversion with no rate limits	No	Yes	Unknown
+ExchangeRate-API	Free currency conversion	apiKey	Yes	Yes
+Exchangerate.host	Free foreign exchange & crypto rates API	No	Yes	Unknown
+Exchangeratesapi.io	Exchange rates with currency conversion	apiKey	Yes	Yes
+Frankfurter	Exchange rates, currency conversion and time series	No	Yes	Yes
+FreeForexAPI	Real-time foreign exchange rates for major currency pairs	No	Yes	No
+National Bank of Poland	A collection of currency exchange rates (data in XML and JSON)	No	Yes	Yes
+VATComply.com	Exchange rates, geolocation and VAT number validation	No	Yes	Yes
+⬆ Back to Index
+
+
+Data Validation
+API	Description	Auth	HTTPS	CORS
+Lob.com	US Address Verification	apiKey	Yes	Unknown
+Postman Echo	Test api server to receive and return value from HTTP method	No	Yes	Unknown
+PurgoMalum	Content validator against profanity & obscenity	No	No	Unknown
+US Autocomplete	Enter address data quickly with real-time address suggestions	apiKey	Yes	Yes
+US Extract	Extract postal addresses from any text including emails	apiKey	Yes	Yes
+US Street Address	Validate and append data for any US postal address	apiKey	Yes	Yes
+vatlayer	VAT number validation	apiKey	Yes	Unknown
+⬆ Back to Index
+
+
+Development
+API	Description	Auth	HTTPS	CORS
+24 Pull Requests	Project to promote open source collaboration during December	No	Yes	Yes
+Abstract Screenshot	Take programmatic screenshots of web pages from any website	apiKey	Yes	Yes
+Agify.io	Estimates the age from a first name	No	Yes	Yes
+API Grátis	Multiples services and public APIs	No	Yes	Unknown
+ApicAgent	Extract device details from user-agent string	No	Yes	Yes
+ApiFlash	Chrome based screenshot API for developers	apiKey	Yes	Unknown
+apilayer userstack	Secure User-Agent String Lookup JSON API	OAuth	Yes	Unknown
+APIs.guru	Wikipedia for Web APIs, OpenAPI/Swagger specs for public APIs	No	Yes	Unknown
+Azure DevOps	The Azure DevOps basic components of a REST API request/response pair	apiKey	Yes	Unknown
+Base	Building quick backends	apiKey	Yes	Yes
+Beeceptor	Build a mock Rest API endpoint in seconds	No	Yes	Yes
+Bitbucket	Bitbucket API	OAuth	Yes	Unknown
+Blague.xyz	La plus grande API de Blagues FR/The biggest FR jokes API	apiKey	Yes	Yes
+Blitapp	Schedule screenshots of web pages and sync them to your cloud	apiKey	Yes	Unknown
+Blynk-Cloud	Control IoT Devices from Blynk IoT Cloud	apiKey	No	Unknown
+Bored	Find random activities to fight boredom	No	Yes	Unknown
+Brainshop.ai	Make A Free A.I Brain	apiKey	Yes	Yes
+Browshot	Easily make screenshots of web pages in any screen size, as any device	apiKey	Yes	Yes
+CDNJS	Library info on CDNJS	No	Yes	Unknown
+Changelogs.md	Structured changelog metadata from open source projects	No	Yes	Unknown
+Ciprand	Secure random string generator	No	Yes	No
+Cloudflare Trace	Get IP Address, Timestamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version & More	No	Yes	Yes
+Codex	Online Compiler for Various Languages	No	Yes	Unknown
+Contentful Images	Used to retrieve and apply transformations to images	apiKey	Yes	Yes
+CORS Proxy	Get around the dreaded CORS error by using this proxy as a middle man	No	Yes	Yes
+CountAPI	Free and simple counting service. You can use it to track page hits and specific events	No	Yes	Yes
+Databricks	Service to manage your databricks account,clusters, notebooks, jobs and workspaces	apiKey	Yes	Yes
+DigitalOcean Status	Status of all DigitalOcean services	No	Yes	Unknown
+Docker Hub	Interact with Docker Hub	apiKey	Yes	Yes
+DomainDb Info	Domain name search to find all domains containing particular words/phrases/etc	No	Yes	Unknown
+ExtendsClass JSON Storage	A simple JSON store API	No	Yes	Yes
+GeekFlare	Provide numerous capabilities for important testing and monitoring methods for websites	apiKey	Yes	Unknown
+Genderize.io	Estimates a gender from a first name	No	Yes	Yes
+GETPing	Trigger an email notification with a simple GET request	apiKey	Yes	Unknown
+Ghost	Get Published content into your Website, App or other embedded media	apiKey	Yes	Yes
+GitHub	Make use of GitHub repositories, code and user info programmatically	OAuth	Yes	Yes
+Gitlab	Automate GitLab interaction programmatically	OAuth	Yes	Unknown
+Gitter	Chat for Developers	OAuth	Yes	Unknown
+Glitterly	Image generation API	apiKey	Yes	Yes
+Google Docs	API to read, write, and format Google Docs documents	OAuth	Yes	Unknown
+Google Firebase	Google's mobile application development platform that helps build, improve, and grow app	apiKey	Yes	Yes
+Google Fonts	Metadata for all families served by Google Fonts	apiKey	Yes	Unknown
+Google Keep	API to read, write, and format Google Keep notes	OAuth	Yes	Unknown
+Google Sheets	API to read, write, and format Google Sheets data	OAuth	Yes	Unknown
+Google Slides	API to read, write, and format Google Slides presentations	OAuth	Yes	Unknown
+Gorest	Online REST API for Testing and Prototyping	OAuth	Yes	Unknown
+Hasura	GraphQL and REST API Engine with built in Authorization	apiKey	Yes	Yes
+Heroku	REST API to programmatically create apps, provision add-ons and perform other task on Heroku	OAuth	Yes	Yes
+host-t.com	Basic DNS query via HTTP GET request	No	Yes	No
+Host.io	Domains Data API for Developers	apiKey	Yes	Yes
+HTTP2.Pro	Test endpoints for client and server HTTP/2 protocol support	No	Yes	Unknown
+Httpbin	A Simple HTTP Request & Response Service	No	Yes	Yes
+Httpbin Cloudflare	A Simple HTTP Request & Response Service with HTTP/3 Support by Cloudflare	No	Yes	Yes
+Hunter	API for domain search, professional email finder, author finder and email verifier	apiKey	Yes	Unknown
+IBM Text to Speech	Convert text to speech	apiKey	Yes	Yes
+Icanhazepoch	Get Epoch time	No	Yes	Yes
+Icanhazip	IP Address API	No	Yes	Yes
+IFTTT	IFTTT Connect API	No	Yes	Unknown
+Image-Charts	Generate charts, QR codes and graph images	No	Yes	Yes
+import.io	Retrieve structured data from a website or RSS feed	apiKey	Yes	Unknown
+ip-fast.com	IP address, country and city	No	Yes	Yes
+IP2WHOIS Information Lookup	WHOIS domain name lookup	apiKey	Yes	Unknown
+ipfind.io	Geographic location of an IP address or any domain name along with some other useful information	apiKey	Yes	Yes
+IPify	A simple IP Address API	No	Yes	Unknown
+IPinfo	Another simple IP Address API	No	Yes	Unknown
+jsDelivr	Package info and download stats on jsDelivr CDN	No	Yes	Yes
+JSON 2 JSONP	Convert JSON to JSONP (on-the-fly) for easy cross-domain data requests using client-side JavaScript	No	Yes	Unknown
+JSONbin.io	Free JSON storage service. Ideal for small scale Web apps, Websites and Mobile apps	apiKey	Yes	Yes
+Kroki	Creates diagrams from textual descriptions	No	Yes	Yes
+License-API	Unofficial REST API for choosealicense.com	No	Yes	No
+Logs.to	Generate logs	apiKey	Yes	Unknown
+Lua Decompiler	Online Lua 5.1 Decompiler	No	Yes	Yes
+MAC address vendor lookup	Retrieve vendor details and other information regarding a given MAC address or an OUI	apiKey	Yes	Yes
+Micro DB	Simple database service	apiKey	Yes	Unknown
+MicroENV	Fake Rest API for developers	No	Yes	Unknown
+Mocky	Mock user defined test JSON for REST API endpoints	No	Yes	Yes
+MY IP	Get IP address information	No	Yes	Unknown
+Nationalize.io	Estimate the nationality of a first name	No	Yes	Yes
+Netlify	Netlify is a hosting service for the programmable web	OAuth	Yes	Unknown
+NetworkCalc	Network calculators, including subnets, DNS, binary, and security tools	No	Yes	Yes
+npm Registry	Query information about your favorite Node.js libraries programatically	No	Yes	Unknown
+OneSignal	Self-serve customer engagement solution for Push Notifications, Email, SMS & In-App	apiKey	Yes	Unknown
+Open Page Rank	API for calculating and comparing metrics of different websites using Page Rank algorithm	apiKey	Yes	Unknown
+OpenAPIHub	The All-in-one API Platform	X-Mashape-Key	Yes	Unknown
+OpenGraphr	Really simple API to retrieve Open Graph data from an URL	apiKey	Yes	Unknown
+oyyi	API for Fake Data, image/video conversion, optimization, pdf optimization and thumbnail generation	No	Yes	Yes
+PageCDN	Public API for javascript, css and font libraries on PageCDN	apiKey	Yes	Yes
+Postman	Tool for testing APIs	apiKey	Yes	Unknown
+ProxyCrawl	Scraping and crawling anticaptcha service	apiKey	Yes	Unknown
+ProxyKingdom	Rotating Proxy API that produces a working proxy on every request	apiKey	Yes	Yes
+Pusher Beams	Push notifications for Android & iOS	apiKey	Yes	Unknown
+QR code	Create an easy to read QR code and URL shortener	No	Yes	Yes
+QR code	Generate and decode / read QR code graphics	No	Yes	Unknown
+Qrcode Monkey	Integrate custom and unique looking QR codes into your system or workflow	No	Yes	Unknown
+QuickChart	Generate chart and graph images	No	Yes	Yes
+Random Stuff	Can be used to get AI Response, jokes, memes, and much more at lightning-fast speed	apiKey	Yes	Yes
+Rejax	Reverse AJAX service to notify clients	apiKey	Yes	No
+ReqRes	A hosted REST-API ready to respond to your AJAX requests	No	Yes	Unknown
+RSS feed to JSON	Returns RSS feed in JSON format using feed URL	No	Yes	Yes
+SavePage.io	A free, RESTful API used to screenshot any desktop, or mobile website	apiKey	Yes	Yes
+ScrapeNinja	Scraping API with Chrome fingerprint and residential proxies	apiKey	Yes	Unknown
+ScraperApi	Easily build scalable web scrapers	apiKey	Yes	Unknown
+scraperBox	Undetectable web scraping API	apiKey	Yes	Yes
+scrapestack	Real-time, Scalable Proxy & Web Scraping REST API	apiKey	Yes	Unknown
+ScrapingAnt	Headless Chrome scraping with a simple API	apiKey	Yes	Unknown
+ScrapingDog	Proxy API for Web scraping	apiKey	Yes	Unknown
+ScreenshotAPI.net	Create pixel-perfect website screenshots	apiKey	Yes	Yes
+Serialif Color	Color conversion, complementary, grayscale and contrasted text	No	Yes	No
+serpstack	Real-Time & Accurate Google Search Results API	apiKey	Yes	Yes
+Sheetsu	Easy google sheets integration	apiKey	Yes	Unknown
+SHOUTCLOUD	ALL-CAPS AS A SERVICE	No	No	Unknown
+Sonar	Project Sonar DNS Enumeration API	No	Yes	Yes
+SonarQube	SonarQube REST APIs to detect bugs, code smells & security vulnerabilities	OAuth	Yes	Unknown
+StackExchange	Q&A forum for developers	OAuth	Yes	Unknown
+Statically	A free CDN for developers	No	Yes	Yes
+Supportivekoala	Autogenerate images with template	apiKey	Yes	Yes
+Tyk	Api and service management platform	apiKey	Yes	Yes
+Wandbox	Code compiler supporting 35+ languages mentioned at wandbox.org	No	Yes	Unknown
+WebScraping.AI	Web Scraping API with built-in proxies and JS rendering	apiKey	Yes	Yes
+ZenRows	Web Scraping API that bypasses anti-bot solutions while offering JS rendering, and rotating proxies	apiKey	Yes	Unknown
+⬆ Back to Index
