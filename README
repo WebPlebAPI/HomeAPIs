@@ -379,6 +379,13 @@ NewtonSoftJSON
 string payload = await response.Content.ReadAsStringAsync();
 
 JArray payloadObject = JArray.Parse(payload);
+
+
+
+
+
+
+
 Checklist Notes
 Task 1 - Proposal, Design and Test Plan
 What needs to be included?
@@ -412,6 +419,8 @@ For the description of the proposed solution, I need to talk about what my solut
 Rationale
 For the rationale section, I need to talk about how my proposed solution aligns with client and user needs. I need to also talk about how I intend to mitigate potential risks with security, constraints etc.
 
+
+TASK1B
 Test Plan/Design
 Create visual/interface designs.
 I need to create visual/interface designs of the application that I will produce. I need to explain the reasons for my designs and how the screens will respond to user inputs, data inputs etc.
